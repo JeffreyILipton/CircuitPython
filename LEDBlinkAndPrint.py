@@ -11,4 +11,4 @@ while True:
     time.sleep(0.5)
     led.value = False
     time.sleep(0.5)
-    print('off')
+    print('off for 0.5 seconds')
